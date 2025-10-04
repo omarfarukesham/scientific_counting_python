@@ -1,3 +1,6 @@
-my_list = []
-for i in range(1, 11):
-    my_list.append(i**2)
+my_list = [1, 2]
+
+my_list.append(3)
+print(my_list)
+
+print(my_list[0])
